@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danilo C. Macedo</h1>
-<h3 align="center">An accountant and passionate future python developer from Brazil</h3>
+<h3 align="center">Accountant and future Web and Python developer.</h3>
 
 - 🔭 I’m currently working on [Holi Coats Confeccoes Ltda](www.holicoats.com.br)
 
