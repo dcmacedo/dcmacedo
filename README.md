@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Holi Coats Confeccoes Ltda](www.holicoats.com.br)
 
-- 🌱 I’m currently learning **Python, React, HTML, CSS, JS, C/C++**
+- 🌱 I’m currently learning **Python, React, Next.js, Typescript, HTML, CSS, JS, C/C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dcmacedo/](https://github.com/dcmacedo/)
 
