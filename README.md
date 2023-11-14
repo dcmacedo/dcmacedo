@@ -15,7 +15,8 @@
 
 - ⚡ Fun fact **I think I'm smart**
 
-![Dcmacedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcmacedo&count_private=true&show_icons=true&theme=dracula)
+[![Dcmacedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcmacedo&count_private=true&show_icons=true&theme=dracula)](https://github.com/dcmacedo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcmacedo&layout=compact)](https://github.com/dcmacedo)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
