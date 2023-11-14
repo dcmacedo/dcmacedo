@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I think I'm smart**
 
-[![Dcmacedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcmacedo)](https://github.com/dcmacedo/github-readme-stats)
+[![Dcmacedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcmacedo&count_private=true)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
