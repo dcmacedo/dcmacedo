@@ -14,9 +14,10 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/danilo-cotrim-macedo-671557246/](https://www.linkedin.com/in/danilo-cotrim-macedo-671557246/)
 
 - ⚡ Fun fact **I think I'm smart**
-
-[![Dcmacedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcmacedo&count_private=true&show_icons=true&theme=dracula)](https://github.com/dcmacedo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcmacedo&layout=compact)](https://github.com/dcmacedo)
+<a href="https://github.com/dcmacedo">
+<img src="![Dcmacedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcmacedo&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)">
+<img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcmacedo&layout=compact)">
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
