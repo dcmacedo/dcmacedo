@@ -15,8 +15,8 @@
 
 - ⚡ Fun fact **I think I'm smart**
 <a href="https://github.com/dcmacedo">
-<img src="![Dcmacedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcmacedo&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)">
-<img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcmacedo&layout=compact)">
+<img src="https://github-readme-stats.vercel.app/api?username=dcmacedo&count_private=true&show_icons=true&include_all_commits=true&theme=dracula">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcmacedo&layout=compact">
 </a>
 
 <h3 align="left">Connect with me:</h3>
