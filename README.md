@@ -52,11 +52,27 @@
 
 ### Meus Principais Artigos na DIO
 
-<details>
-    <summary>
-        Em Breve
-    </summary>
-</details>
+<table>
+  <thead>
+    <tr align="left">
+      <th>Data</th>
+      <th>Título</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <td>01/12/2023</td>
+      <td>Persistência e Constância: Uma Transição de Carreira da Contabilidade para o Desenvolvimento Web (Frontend)</td>
+      <td align="center">
+        <a href="https://www.dio.me/articles/persistencia-e-constancia-uma-transicao-de-carreira-da-contabilidade-para-o-desenvolvimento-web-frontend">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  <tfoot></tfoot>
+</table>
 
 ##
 
