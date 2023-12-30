@@ -46,6 +46,7 @@
 
 ### Meus Principais Desafios de Projeto DIO
 
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=dcmacedo&repo=dio-js-developer-pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dcmacedo/dio-js-developer-pokedex)
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=dcmacedo&repo=dio-writing-classes-of-game&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dcmacedo/dio-writing-classes-of-game)
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=dcmacedo&repo=dio-ranked-match-calculator&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dcmacedo/dio-ranked-match-calculator)
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=dcmacedo&repo=dio-hero-level-sorter-challenge&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dcmacedo/dio-hero-level-sorter-challenge)
