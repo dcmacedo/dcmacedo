@@ -74,6 +74,15 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td>29/12/2023</td>
+      <td>Explorando o Mundo Pokémon: Desenvolvendo uma Pokédex Interativa</td>
+      <td align="center">
+        <a href="https://dio.me/articles/desafio-pokedex-detalhes-do-pokemon">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
+        </a>
+      </td>
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
