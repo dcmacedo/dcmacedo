@@ -1,6 +1,6 @@
 # Olá, Meu nome é  Danilo Cotrim Macedo
 
-## Contabilista em transição de carreira para Desenvolvedor Frontend
+## Desenvolvedor Frontend em Formação
 
 <p align="justify"> Tenho 43 anos, sou casado há 21 anos, tenho uma filha, uma carreira sólida em controladoria e contabilidade, porém, sempre fui apaixonado por tecnologia e tive vontade de atuar com desenvolvimento web, pois bem, neste ano de 2023 tomei a iniciativa de me matricular no curso de Ciência da Computação pela <a href="https://portal.fmu.br/" target="blank">FMU</a> e estou muito feliz com essa decisão. Próximo passo é conseguir uma vaga como Desenvolvedor Frontend!</p>
 
