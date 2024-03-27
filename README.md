@@ -1,8 +1,8 @@
 # Olá, Meu nome é  Danilo Cotrim Macedo
 
-## Desenvolvedor Frontend em Formação
+## Desenvolvedor Backend em Formação
 
-<p align="justify"> Tenho 43 anos, sou casado há 21 anos, tenho uma filha, uma carreira sólida em controladoria e contabilidade, porém, sempre fui apaixonado por tecnologia e tive vontade de atuar com desenvolvimento web, pois bem, neste ano de 2023 tomei a iniciativa de me matricular no curso de Ciência da Computação pela <a href="https://portal.fmu.br/" target="blank">FMU</a> e estou muito feliz com essa decisão. Próximo passo é conseguir uma vaga como Desenvolvedor Frontend!</p>
+<p align="justify"> Tenho 43 anos, sou casado há 21 anos, tenho uma filha, uma carreira sólida em controladoria e contabilidade, porém, sempre fui apaixonado por tecnologia e tive vontade de atuar com desenvolvimento web, pois bem, neste ano de 2023 tomei a iniciativa de me matricular no curso de Ciência da Computação pela <a href="https://portal.fmu.br/" target="blank">FMU</a> e estou muito feliz com essa decisão.</p>
 
 ##
 
@@ -25,6 +25,7 @@
 ### Habilidades que pretendo Desenvolver
 
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=java&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=red)
