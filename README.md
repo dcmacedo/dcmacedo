@@ -1,4 +1,4 @@
-# Olá, Meu nome é  Danilo Cotrim Macedo
+# Olá, Meu nome é  Danilo
 
 ## Desenvolvedor Backend em Formação
 
@@ -25,7 +25,7 @@
 ### Habilidades que pretendo Desenvolver
 
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=java&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=red)
