@@ -14,7 +14,11 @@
 
 ### Habilidades que estou Desenvolvendo
 
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot)
 ![Vscode](https://img.shields.io/badge/Vscode-000?style=for-the-badge&logo=visual-studio-code&logoColor=30A3DC)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000?style=for-the-badge&logo=intellijidea)
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
@@ -25,7 +29,6 @@
 ### Habilidades que pretendo Desenvolver
 
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=red)
@@ -42,6 +45,14 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dcmacedo&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dcmacedo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+##
+
+### Meus Principais Desafios de Projeto no Programa ONE (Alura/Oracle)
+
+[![Repo ONE Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=dcmacedo&repo=forumhub_api&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dcmacedo/forumhub_api)
+[![Repo ONE Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=dcmacedo&repo=literalura&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dcmacedo/literalura)
+[![Repo ONE Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=dcmacedo&repo=conversorDeMoedas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dcmacedo/conversorDeMoedas)
 
 ##
 
