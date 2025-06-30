@@ -2,9 +2,11 @@
 
 ## Desenvolvedor Backend em Formação
 
-<p align="justify"> Tenho 44 anos, sou casado há 23 anos, tenho uma filha, uma carreira sólida em controladoria e contabilidade, porém, sempre fui apaixonado por tecnologia e tive vontade de atuar com desenvolvimento web, pois bem, neste ano de 2023 tomei a iniciativa de me matricular no curso de Ciência da Computação pela <a href="https://portal.fmu.br/" target="blank">FMU</a> e estou muito feliz com essa decisão.</p>
+<p align="justify">Sou profissional com trajetória consolidada em controladoria e contabilidade, e sempre fui movido pela curiosidade e paixão por tecnologia. Essa motivação me levou a iniciar uma transição de carreira para o desenvolvimento web, com foco em backend. Desde então, tenho me dedicado ao aprendizado contínuo de tecnologias modernas, como Supabase, Lovable.dev, Next.js, entre outras.</p>
 
-##
+## Explorando o Universo Backend com Foco em Aprendizado Contínuo
+
+<sub><i>Atualmente aprendendo Supabase, Lovable.dev e Next.js</i></sub>
 
 ### Conecte-se Comigo
 
@@ -12,96 +14,91 @@
 
 ##
 
-### Habilidades que estou Desenvolvendo
+### Habilidades que Estou Desenvolvendo Ativamente
 
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
-![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot)
-![Vscode](https://img.shields.io/badge/Vscode-000?style=for-the-badge&logo=visual-studio-code&logoColor=30A3DC)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000?style=for-the-badge&logo=intellijidea)
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=30A3DC)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Lovable.dev](https://img.shields.io/badge/Lovable.dev-000?style=for-the-badge&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 
-### Habilidades que pretendo Desenvolver
 
-![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
+### Habilidades que Pretendo Desenvolver em Breve
+
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Auth.js](https://img.shields.io/badge/Auth.js-000?style=for-the-badge&logo=auth0&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-000?style=for-the-badge&logo=stripe&logoColor=635bff)
+![n8n](https://img.shields.io/badge/n8n.io-000?style=for-the-badge&logo=n8n&logoColor=ff6d00)
+![Jest](https://img.shields.io/badge/Jest-000?style=for-the-badge&logo=jest&logoColor=C21325)
+![Playwright](https://img.shields.io/badge/Playwright-000?style=for-the-badge&logo=playwright&logoColor=green)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=red)
-![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=61DAFB)
 
-##
 
-### GitHub Stats and Streak Stats
+## 🚀 Projetos em Destaque
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dcmacedo&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+### 🔧 APIs REST
+
+[![ForumHub API](https://github-readme-stats.vercel.app/api/pin/?username=dcmacedo&repo=forumhub_api&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dcmacedo/forumhub_api)
+[![Literalura](https://github-readme-stats.vercel.app/api/pin/?username=dcmacedo&repo=literalura&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dcmacedo/literalura)
+
+---
+
+### 🎨 Frontend
+
+[![Angular Blog](https://github-readme-stats.vercel.app/api/pin/?username=dcmacedo&repo=dio-angular-project-blog&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dcmacedo/dio-angular-project-blog)
+[![Pokédex JS](https://github-readme-stats.vercel.app/api/pin/?username=dcmacedo&repo=dio-js-developer-pokedex&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dcmacedo/dio-js-developer-pokedex)
+
+---
+
+### 💡 Lógica de Programação / Orientação a Objetos
+
+[![Conversor de Moedas](https://github-readme-stats.vercel.app/api/pin/?username=dcmacedo&repo=conversorDeMoedas&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dcmacedo/conversorDeMoedas)
+[![Game Classes](https://github-readme-stats.vercel.app/api/pin/?username=dcmacedo&repo=dio-writing-classes-of-game&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dcmacedo/dio-writing-classes-of-game)
+[![Hero Level Sorter](https://github-readme-stats.vercel.app/api/pin/?username=dcmacedo&repo=dio-hero-level-sorter-challenge&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dcmacedo/dio-hero-level-sorter-challenge)
+[![Ranked Match Calculator](https://github-readme-stats.vercel.app/api/pin/?username=dcmacedo&repo=dio-ranked-match-calculator&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dcmacedo/dio-ranked-match-calculator)
+
+---
+
+### 🌐 Contribuição e Open Source
+
+[![Open Source DIO](https://github-readme-stats.vercel.app/api/pin/?username=dcmacedo&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dcmacedo/dio-lab-open-source)
+
+---
+
+## 🛠️ Projetos Pessoais e Em Andamento
+
+### ⏱️ Sistema de Ponto com Supabase + Lovable.dev
+
+[![Projeto: Sistema de Ponto](https://img.shields.io/badge/Sistema%20de%20Ponto-Backend%20com%20Supabase%20%2B%20Lovable.dev-000?style=for-the-badge&logo=supabase&logoColor=3ECF8E)](https://github.com/dcmacedo) <!-- Link pode ser atualizado para o repositório real -->
+
+![Stack](https://img.shields.io/badge/Stack-Supabase%20%7C%20Lovable.dev%20%7C%20Auth.js%20%7C%20Next.js-000?style=for-the-badge)
+
+---
+
+### 💰 Sistema de Orçamento com Desconto Progressivo
+
+[![Projeto: Sistema de Orçamento](https://img.shields.io/badge/Sistema%20de%20Orçamento-Desconto%20Progressivo%20%2B%20Margem%20de%20Contribui%C3%A7%C3%A3o-000?style=for-the-badge&logo=stripe&logoColor=635bff)](https://github.com/dcmacedo) <!-- Atualize aqui com o link quando estiver público -->
+
+![Stack](https://img.shields.io/badge/Stack-Next.js%20%7C%20Supabase%20%7C%20Stripe%20%7C%20n8n-000?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats and Streak
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dcmacedo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dcmacedo&locale=pt_BR&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dcmacedo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![Troféus](https://github-profile-trophy.vercel.app/?username=dcmacedo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-##
+---
 
-### Meus Principais Desafios de Projeto no Programa ONE (Alura/Oracle)
+<p align="center">Feito com dedicação, código limpo e café ☕ por <a href="https://github.com/dcmacedo" target="_blank"><strong>Danilo C. Macedo</strong></a> 🚀</p>
 
-[![Repo ONE Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=dcmacedo&repo=forumhub_api&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dcmacedo/forumhub_api)
-[![Repo ONE Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=dcmacedo&repo=literalura&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dcmacedo/literalura)
-[![Repo ONE Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=dcmacedo&repo=conversorDeMoedas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dcmacedo/conversorDeMoedas)
-
-##
-
-### Meus Principais Desafios de Projeto DIO
-
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=dcmacedo&repo=dio-angular-project-blog&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dcmacedo/dio-angular-project-blog)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=dcmacedo&repo=dio-js-developer-pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dcmacedo/dio-js-developer-pokedex)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=dcmacedo&repo=dio-writing-classes-of-game&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dcmacedo/dio-writing-classes-of-game)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=dcmacedo&repo=dio-ranked-match-calculator&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dcmacedo/dio-ranked-match-calculator)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=dcmacedo&repo=dio-hero-level-sorter-challenge&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dcmacedo/dio-hero-level-sorter-challenge)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=dcmacedo&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dcmacedo/dio-lab-open-source)
-
-##
-
-### Meus Principais Artigos na DIO
-
-<table>
-  <thead>
-    <tr align="left">
-      <th>Data</th>
-      <th>Título</th>
-      <th>Link</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-    <tr>
-      <td>01/12/2023</td>
-      <td>Persistência e Constância: Uma Transição de Carreira da Contabilidade para o Desenvolvimento Web (Frontend)</td>
-      <td align="center">
-        <a href="https://www.dio.me/articles/persistencia-e-constancia-uma-transicao-de-carreira-da-contabilidade-para-o-desenvolvimento-web-frontend">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>29/12/2023</td>
-      <td>Explorando o Mundo Pokémon: Desenvolvendo uma Pokédex Interativa</td>
-      <td align="center">
-        <a href="https://dio.me/articles/desafio-pokedex-detalhes-do-pokemon">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-  <tfoot></tfoot>
-</table>
-
-##
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dcmacedo&label=Profile%20views&color=0e75b6&style=flat" alt="dcmacedo" /> </p>
-
-<p align="center">Desenvolvido com 💙 por <a href="https://github.com/dcmacedo">Danilo C. Macedo</a>.</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dcmacedo&label=Visualiza%C3%A7%C3%B5es%20do%20Perfil&color=0e75b6&style=flat" alt="dcmacedo" />
+</p>
